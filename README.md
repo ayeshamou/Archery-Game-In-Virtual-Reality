@@ -12,4 +12,4 @@
 - SteamVR plugins for Unity
 
 ## Requirements for the Experience in Virtual Reality
-- Virtual Reality Setup for gaming like Oculus, HTC Vive, Samsung odyssey 
+- Virtual Reality Setup for gaming like Oculus, HTC Vive or Samsung odyssey 
