@@ -12,4 +12,8 @@
 - SteamVR plugins for Unity
 
 ## Requirements for the Experience in Virtual Reality
-- Virtual Reality Setup for gaming like Oculus, HTC Vive or Samsung odyssey 
+- Virtual Reality Setup for gaming like Oculus, HTC Vive or Samsung Odyssey
+
+## Instructions for playing
+- The player needs to install Unity game engine and run Archery.exe file
+- To experience in Virtual Reality, there needs to be a setup with Oculus or HTC Vive or Samsung Odyssey
